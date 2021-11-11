@@ -8,10 +8,6 @@
 
 - Spigot Minigames 
 
-- Java Developer @SeigeMC 
-
-- Network and Backend Developer @AethercraftNetwork
-
 - Freelancer
 
 - Learning secret stuff 
