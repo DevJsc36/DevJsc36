@@ -12,6 +12,6 @@
 
 - Network and Backend Developer @AethercraftNetwork
 
-- freelancer
+- Freelancer
 
 - Learning secret stuff 
